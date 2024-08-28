@@ -1,0 +1,13 @@
+/* src/style/home.css */
+.hero {
+  background-color: #f8f9fa;
+  padding: 2rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+.hero p {
+  font-size: 1.25rem;
+}
